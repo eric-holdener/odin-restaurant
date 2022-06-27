@@ -1,1 +1,1 @@
-console.log("Webpack is functional");
+(()=>{"use strict";console.log("test"),console.log("another test"),console.log("test three")})();
